@@ -1,0 +1,4 @@
+com/team29/plagiarismdetector/PlagiarismDetectorApplication.class
+com/team29/plagiarismdetector/controllers/TodoController.class
+com/team29/plagiarismdetector/models/Todo.class
+com/team29/plagiarismdetector/repositories/TodoRepository.class
